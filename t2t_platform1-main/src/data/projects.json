@@ -1,0 +1,97 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Car Rental Website Development",
+      "type": "Website",
+      "typeColor": "bg-[#fca9b89c]",
+      "dotColor": "bg-[#f25470]",
+      "description": "A comprehensive car rental website with modern booking system and user-friendly interface.",
+      "company": "CarRent",
+      "students": "06 Students",
+      "hours": "8Hours/Day",
+      "months": "03 Months",
+      "image": "/project1.png",
+      "features": [
+        "User-friendly booking interface",
+        "Real-time availability tracking",
+        "Secure payment integration",
+        "Customer review system",
+        "Admin dashboard for fleet management"
+      ],
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "PostgreSQL",
+        "Stripe Payment",
+        "AWS Services"
+      ],
+      "status": "In Progress",
+      "progress": 65,
+      "deadline": "2025-05-15",
+      "team": 6
+    },
+    {
+      "id": 2,
+      "title": "Microfinance Software Development",
+      "type": "Software",
+      "typeColor": "bg-[#d9f2fb]",
+      "dotColor": "bg-[#23bdee]",
+      "description": "Advanced microfinance management software with integrated accounting and loan tracking features.",
+      "company": "FinTech Solutions",
+      "students": "06 Students",
+      "hours": "8Hours/Day",
+      "months": "06 Months",
+      "image": "/project2.png",
+      "features": [
+        "Loan management system",
+        "Automated payment tracking",
+        "Financial reporting",
+        "Customer management",
+        "Risk assessment tools"
+      ],
+      "technologies": [
+        "Java Spring Boot",
+        "React.js",
+        "MySQL",
+        "Docker",
+        "Jenkins"
+      ],
+      "status": "Planning",
+      "progress": 25,
+      "deadline": "2025-06-01",
+      "team": 4
+    },
+    {
+      "id": 3,
+      "title": "Employee Working Area Analyzer",
+      "type": "App",
+      "typeColor": "bg-[#f0e2c1]",
+      "dotColor": "bg-[#f4c467]",
+      "description": "Smart workplace analytics tool for monitoring and optimizing employee workspace utilization.",
+      "company": "Workspace Analytics Inc",
+      "students": "06 Students",
+      "hours": "8Hours/Day",
+      "months": "03 Months",
+      "image": "/project3.png",
+      "features": [
+        "Real-time occupancy tracking",
+        "Heat maps for space utilization",
+        "Automated reporting",
+        "Capacity planning tools",
+        "Social distancing monitoring"
+      ],
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "React Native",
+        "MongoDB",
+        "Azure Cloud"
+      ],
+      "status": "Completed",
+      "progress": 100,
+      "deadline": "2025-04-01",
+      "team": 6
+    }
+  ]
+}
